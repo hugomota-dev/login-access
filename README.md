@@ -14,7 +14,8 @@ Exclusão de usuários
 Persistência de dados
 
 ##### Ferramentas utilizadas:
+[VS Code](https://code.visualstudio.com/)
 
-VS Code - https://code.visualstudio.com/
-Git - https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/Git-2.53.0-64-bit.exe - instalação para windows
-GitHub - https://github.com/hugomota-dev
+[Git](https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/Git-2.53.0-64-bit.exe)
+
+[Acesse meu GitHub](https://github.com/hugomota-dev)
