@@ -19,3 +19,12 @@ Persistência de dados
 [Git](https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/Git-2.53.0-64-bit.exe)
 
 [Acesse meu GitHub](https://github.com/hugomota-dev)
+
+##### Extensões VS Code:
+Live Server
+
+Prettier - Code formatter
+
+HTML End Tag Labels
+
+
