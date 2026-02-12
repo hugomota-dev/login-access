@@ -4,13 +4,23 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Login de acesso</title>
-    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="style.css"
+      media="print"
+      onload="this.media = 'all'"
+    />
   </head>
   <body>
     <h1>Login de acesso</h1>
-
     <div class="login-form">
-      <form action="" target="_self" method="post" autocomplete="on">
+      <form
+        action=""
+        target="_self"
+        method="post"
+        autocomplete="on"
+        role="form"
+      >
         <label for="login-email"><span>*</span>E-mail:</label><br />
         <input
           type="text"
